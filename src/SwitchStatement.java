@@ -2,7 +2,7 @@ public class SwitchStatement {
     //Switch Statement means it will multiple cases followed by a break statement
     //instead of having multiple ifelse statements we can use switch statement as alternative to it
     public static void main(String[] args) {
-        int x=4;
+        int x=3;
         switch (x) {
             case 1:
                 System.out.println("condition not statisfied");
@@ -11,7 +11,7 @@ public class SwitchStatement {
                 System.out.println("condition not satidfied");
                 break;
             case 3:
-                System.out.println("condition not satified");
+                System.out.println("condition three is satisfied beacuse it matches the value");
                 break;
             case 4:
                 System.out.println("condition satisifed");
