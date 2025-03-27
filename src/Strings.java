@@ -7,7 +7,7 @@ public class Strings {
     public static void main(String[] args) {
 
 
-        String greeting = "hello";
+        String greeting = "hello Vamshi";
         System.out.println(greeting);
         System.out.println(greeting.length());//to know the length of the string
         System.out.println(greeting.toLowerCase());
