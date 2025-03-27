@@ -17,7 +17,7 @@ public class IfElseIfStatements {
             System.out.println("the else if block will be executed because the if condition has failed");
         }
         else{
-            System.out.println("this block will execute only if the both conditions in if and else is get filed");
+            System.out.println("this block will execute only if the both conditions in if and else is get file");
         }
     }
 }
