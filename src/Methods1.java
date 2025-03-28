@@ -4,6 +4,7 @@ public class Methods1 {
     }
 
     public static void main(String[] args) {
+        //as it is a static method we dont need to create the objects to call the methods
         myMethod(24);
     }
 }
