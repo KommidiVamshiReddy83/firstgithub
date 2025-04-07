@@ -10,7 +10,7 @@ public class ForLoop {
             System.out.print(i +" ");
         }
         System.out.println();
-        //to print the divisors of number 5
+
         for (int i=1; i<=10;i++){
             System.out.print(i);
         }

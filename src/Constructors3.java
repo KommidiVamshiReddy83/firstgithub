@@ -2,8 +2,8 @@ public class Constructors3 {
     String fName;
     String lName;
     String FName;
-    public Constructors3(String name1,String name2 ,String name3){
-        fName=name1;
+    public Constructors3(String fName,String name2 ,String name3){
+        this.fName=fName;
         lName=name2;
         FName=name3;
     }
