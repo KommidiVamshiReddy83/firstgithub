@@ -9,7 +9,8 @@ public class Encapsulation3 {
     private String name;
 
     //setter method
-    public void setage(int age) {
+    public void setage(int age)
+    {
         this.age = age;
     }
 
@@ -19,12 +20,14 @@ public class Encapsulation3 {
     }
 
     //setter method for String name
-    public void setName(String Name) {
+    public void setName(String Name)
+    {
         name = Name;
     }
 
     //getter method for Sting name
-    public String getname() {
+    public String getname()
+    {
         return name;
     }
 
