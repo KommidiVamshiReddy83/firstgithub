@@ -1,6 +1,6 @@
 public class Constructors1 {
     int x;//class attribute
-    public Constructors1(){//here we are creating a constructors1 which store the information of the variable
+    public Constructors2(){//here we are creating a constructors1 which store the information of the variable
         //here we will give the intial value for the variable
         x=5;
     }
